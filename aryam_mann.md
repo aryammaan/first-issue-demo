@@ -2,7 +2,11 @@
 Aryam Mann
 
 ###Department
-CSE, 2nd year
+CSE, 3nd year
+
+
+## DOB
+21/09/2003
 
 ### Your socials
 - Gtihub = https://github.com/aryammaan
