@@ -1,7 +1,7 @@
-#First and Last Name
+# First and Last Name
 Aryam Mann
 
-###Department
+### Department
 CSE, 3nd year
 
 
